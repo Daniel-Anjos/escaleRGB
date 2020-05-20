@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>RGB scale</title>
+</head>
+<body>
+        <h1>RGB Selector</h1>
+        <form id="form">
+            <label id="redLabel">
+                (R) Vermelho:
+                <input class="seletor" type="range" id="redRange" min='0' max='255' value="0">
+                <input class="inputText" type="text" id="inputTextRed" value="0" disabled>
+            </label>
+            <label id="greenLabel">
+                (G) Verde:
+                <input class="seletor" type="range" id="greenRange" min='0' max='255' value="0">
+                <input class="inputText" type="text" id="inputTextGreen" placeholder="0" disabled>
+            </label>
+            <label id="blueLabel">
+                (B) Blue:
+                <input class="seletor" type="range" id="blueRange" min='0' max='255' value="0">
+                <input class="inputText" type="text" id="inputTextBlue" placeholder="0" disabled>
+            </label>
+        </form>
+        <div id="squareColor" style="background-color: rgb(0,0,0);"></div>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,46 @@
+#form{
+    display: flex;
+    flex-direction: column;
+}
+.seletor{
+    vertical-align: middle;
+}
+h1{
+    font-size: 3rem;
+    margin-left: 1%;
+}
+#redRange{
+    margin-left: 1rem;    
+}
+#blueRange{
+    margin-left: 3.2rem;
+}
+#greenRange{
+    margin-left: 2.55rem;
+}
+#squareColor{
+    border-style: solid;
+    border-width: 2px;
+    width: 7%;;
+    padding-bottom: 7%;
+    margin-left: 4%;
+    margin-top: 2%;
+}
+#blueLabel{
+    color: blue;
+    font-weight: bold;
+}
+#redLabel{
+    color: red;
+    font-weight: bold;
+}
+#greenLabel{
+    color: rgb(16, 133, 16);
+    font-weight: bold;
+}
+.inputText{
+    width: 3%;
+}
+
+
+
