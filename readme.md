@@ -7,6 +7,6 @@ May, 2020
 ![Scale RGB - Image](https://github.com/Daniel-Anjos/escaleRGB/blob/master/scaleRGB.png)
 
 
-### GIF Exemple
+### Exemple
 ![RGB Selector - GIF](https://github.com/Daniel-Anjos/escaleRGB/blob/master/RGBseletor.gif)
 
