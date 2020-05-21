@@ -4,7 +4,7 @@ This project consists of creating three selectors of the RGB combination to form
 Only HTML, CSS and JavaScript used.
 May, 2020
 
-[RGB Scale Site - ](https://daniel-anjos.github.io/escaleRGB/escaleRGB.html)
+[Implementation - RGB Seletor](https://daniel-anjos.github.io/escaleRGB/escaleRGB.html)
 
 ![Scale RGB - Image](https://github.com/Daniel-Anjos/escaleRGB/blob/master/scaleRGB.png)
 
